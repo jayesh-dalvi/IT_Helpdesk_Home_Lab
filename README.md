@@ -15,8 +15,8 @@ I'm working through ten projects, roughly in the order a new support person woul
 | # | Project | Status |
 |---|---------|--------|
 | 1 | [Active Directory domain with users and Group Policy](active-directory-group-policy) | Done |
-| 2 | Account lockouts, password resets, onboarding and offboarding | Up next |
-| 3 | Ticketing system setup and working a ticket queue | Coming soon |
+| 2 | [Account lockouts, password resets, onboarding and offboarding](02-account-lockouts-and-password-resets) | Done |
+| 3 | Ticketing system setup and working a ticket queue | Up Next |
 | 4 | Windows troubleshooting lab | Coming soon |
 | 5 | Networking basics: DHCP, DNS and a small router setup | Coming soon |
 | 6 | Remote support with RDP, Quick Assist and PowerShell remoting | Coming soon |
